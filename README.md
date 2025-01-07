@@ -17,7 +17,7 @@
    - 自由組隊，每組由數名學生組成。
 
 2. **選定講授題目**
-   - Muskan Srivastava, Image Classification using custom Dataset, Kaggle。
+   - Muskan Srivastava, Image Classification using custom Dataset, Kaggle。https://www.kaggle.com/code/muskansri/image-classification-using-custom-dataset
 
 3. **深入學習**
    - 詳細研讀題目內容，熟悉主題細節，並製作學習筆記（格式為 `.ipynb`）。
